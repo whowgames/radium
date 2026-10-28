@@ -8,7 +8,7 @@
 
 namespace radium\extensions\adapter\converters;
 
-class Plain extends \lithium\core\Object {
+class Plain extends \lithium\core\Li3Object {
 
 	/**
 	 * returns rendered content
