@@ -14,7 +14,7 @@ use Exception;
 
 use lithium\util\Set;
 
-class Neon extends \lithium\core\Object {
+class Neon extends \lithium\core\Li3Object {
 
 	/**
 	 * returns rendered content

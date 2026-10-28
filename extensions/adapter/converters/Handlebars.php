@@ -10,7 +10,7 @@ namespace radium\extensions\adapter\converters;
 
 use Handlebars\Handlebars as Renderer;
 
-class Handlebars extends \lithium\core\Object {
+class Handlebars extends \lithium\core\Li3Object {
 
 	/**
 	 * returns rendered content
